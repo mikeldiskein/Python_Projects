@@ -537,7 +537,7 @@ with open('C:/Users/mikha/Downloads/diary.txt', mode='r', encoding='utf-8') as f
         print(note)
         print()
 
-print('Hello')
+print('Bye!')
 
 
 
